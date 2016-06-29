@@ -1,8 +1,8 @@
 # SQLcl
 
-* [Intro](#Intro)
-* [Commands](#Commands)
-* [Scripting](#Scripting)
+* [Intro](#intro)
+* [Commands](#commands)
+* [Scripting](#scripting)
 
 ## Intro
 
