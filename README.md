@@ -1,5 +1,9 @@
 # SQLcl
 
+* [Intro](#Intro)
+* [Commands](#Commands)
+* [Scripting](#Scripting)
+
 ## Intro
 
 What is SQLcl? From their own web portal:
@@ -96,3 +100,5 @@ end foo;
 /
 SQL> spool off
 ```
+
+## Scripting
