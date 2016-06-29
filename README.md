@@ -19,7 +19,7 @@ New commands that have been made available can be identified with the help comma
 * BRIDGE
 * CD
 * CTAS
-* DDL
+* [DDL](#ddl)
 * FORMAT
 * HISTORY
 * INFORMATION
